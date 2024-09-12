@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://entertainment-app-server-4pq5.onrender.com",
+  baseURL: "https://my-movies-backend-zc8h.onrender.com"
 });
 
 // Adding a response interceptor
